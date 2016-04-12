@@ -1,0 +1,10 @@
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\logIn\bin\Release\logIn.exe.config
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\logIn\bin\Release\logIn.exe
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\logIn\bin\Release\logIn.pdb
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\logIn\obj\Release\logIn.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\logIn\obj\Release\logIn.Form1.resources
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\logIn\obj\Release\logIn.Form2.resources
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\logIn\obj\Release\logIn.Properties.Resources.resources
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\logIn\obj\Release\logIn.csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\logIn\obj\Release\logIn.exe
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\logIn\obj\Release\logIn.pdb
