@@ -1,0 +1,7 @@
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\DL\bin\Release\DL.dll
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\DL\bin\Release\DL.pdb
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\DL\bin\Release\logIn.exe
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\DL\bin\Release\logIn.pdb
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\DL\obj\Release\DL.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\DL\obj\Release\DL.dll
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\DL\obj\Release\DL.pdb
