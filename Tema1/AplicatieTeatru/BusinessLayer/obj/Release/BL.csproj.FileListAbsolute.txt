@@ -1,7 +1,0 @@
-C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\BL\bin\Release\BL.dll
-C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\BL\bin\Release\BL.pdb
-C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\BL\bin\Release\logIn.exe
-C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\BL\bin\Release\logIn.pdb
-C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\BL\obj\Release\BL.csprojResolveAssemblyReference.cache
-C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\BL\obj\Release\BL.dll
-C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\BL\obj\Release\BL.pdb
