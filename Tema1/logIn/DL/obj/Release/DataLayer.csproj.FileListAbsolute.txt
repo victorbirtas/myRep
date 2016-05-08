@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\DL\bin\Release\DL.dll
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\DL\bin\Release\DL.pdb
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\DL\obj\Release\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\DL\obj\Release\DL.dll
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\DL\obj\Release\DL.pdb
+C:\Users\Victor\Downloads\logIn\logIn\logIn\DL\bin\Release\DL.dll
+C:\Users\Victor\Downloads\logIn\logIn\logIn\DL\bin\Release\DL.pdb
+C:\Users\Victor\Downloads\logIn\logIn\logIn\DL\obj\Release\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Downloads\logIn\logIn\logIn\DL\obj\Release\DL.dll
+C:\Users\Victor\Downloads\logIn\logIn\logIn\DL\obj\Release\DL.pdb
+C:\Users\Victor\Downloads\Tema1\Tema1\logIn\DL\bin\Release\DL.dll
+C:\Users\Victor\Downloads\Tema1\Tema1\logIn\DL\bin\Release\DL.pdb
+C:\Users\Victor\Downloads\Tema1\Tema1\logIn\DL\obj\Release\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Downloads\Tema1\Tema1\logIn\DL\obj\Release\DL.dll
+C:\Users\Victor\Downloads\Tema1\Tema1\logIn\DL\obj\Release\DL.pdb
