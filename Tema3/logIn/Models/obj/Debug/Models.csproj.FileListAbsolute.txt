@@ -1,0 +1,14 @@
+D:\sem2\PS\lab\Laboratorul03\logIn\Models\bin\Debug\Models.dll
+D:\sem2\PS\lab\Laboratorul03\logIn\Models\bin\Debug\Models.pdb
+D:\sem2\PS\lab\Laboratorul03\logIn\Models\bin\Debug\logIn.exe
+D:\sem2\PS\lab\Laboratorul03\logIn\Models\bin\Debug\logIn.pdb
+D:\sem2\PS\lab\Laboratorul03\logIn\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\sem2\PS\lab\Laboratorul03\logIn\Models\obj\Debug\Models.dll
+D:\sem2\PS\lab\Laboratorul03\logIn\Models\obj\Debug\Models.pdb
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\Models\bin\Debug\Models.dll
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\Models\bin\Debug\Models.pdb
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\Models\bin\Debug\logIn.exe
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\Models\bin\Debug\logIn.pdb
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\Models\obj\Debug\Models.dll
+C:\Users\Victor\Desktop\Facultate\PS\logIn\logIn\Models\obj\Debug\Models.pdb
