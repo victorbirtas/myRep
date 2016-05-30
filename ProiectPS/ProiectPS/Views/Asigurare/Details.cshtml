@@ -1,0 +1,42 @@
+﻿@model ProiectPS.Models.Asigurare
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Asigurare</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Proprietar)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Proprietar)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataValabilitate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataValabilitate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Durata)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Durata)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.NrInmatriculare }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

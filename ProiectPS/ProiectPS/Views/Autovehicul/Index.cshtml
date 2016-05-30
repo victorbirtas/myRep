@@ -1,0 +1,87 @@
+﻿@model IEnumerable<ProiectPS.Models.Autovehicul>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NrInmatriculare)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipVehicul)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Marca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Model)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CapacitateCilindrica)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipCombustibil)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AnFabricatie)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Putere)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NrLocuri)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MasaTotala)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NrInmatriculare)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipVehicul)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Marca)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Model)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CapacitateCilindrica)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipCombustibil)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AnFabricatie)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Putere)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NrLocuri)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MasaTotala)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Sasiu }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Sasiu }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Sasiu })
+        </td>
+    </tr>
+}
+
+</table>

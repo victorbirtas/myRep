@@ -1,0 +1,98 @@
+﻿@model ProiectPS.Models.Autovehicul
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Autovehicul</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NrInmatriculare)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NrInmatriculare)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipVehicul)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipVehicul)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Marca)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Marca)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Model)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Model)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CapacitateCilindrica)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CapacitateCilindrica)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipCombustibil)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipCombustibil)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AnFabricatie)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AnFabricatie)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Putere)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Putere)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NrLocuri)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NrLocuri)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MasaTotala)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MasaTotala)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Sasiu }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
